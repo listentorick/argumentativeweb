@@ -1,0 +1,18 @@
+[submodule "lib/express"]
+	path = lib/express
+	url = git://github.com/visionmedia/express.git
+[submodule "lib/connect"]
+	path = lib/connect
+	url = git://github.com/senchalabs/connect.git
+[submodule "lib/connect-auth"]
+	path = lib/connect-auth
+	url = git://github.com/ciaranj/connect-auth.git
+[submodule "lib/connectmiddleware"]
+	path = lib/connectmiddleware
+	url = git://github.com/listentorick/connectmiddleware.git
+[submodule "lib/commonjs-utils"]
+	path = lib/commonjs-utils
+	url = git://github.com/kriszyp/commonjs-utils.git
+[submodule "lib/argumentativeapi"]
+	path = lib/argumentativeapi
+	url = git://github.com/listentorick/argumentativeapi.git
